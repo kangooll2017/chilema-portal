@@ -9,7 +9,7 @@
  *
  *    Filename:    package-info.java
  *
- *    Description: TODO(用一句话描述该文件做什么)
+ *    Description: TODO(测试)
  *
  *    Copyright:   Copyright (c) 2001-2014
  *

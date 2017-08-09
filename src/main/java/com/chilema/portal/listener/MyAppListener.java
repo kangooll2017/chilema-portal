@@ -5,7 +5,7 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
 /**
- * 项目启动的时候，将一些常用数据放在application域中
+ * 项目启动的时候，将一些常用数据放在application域中 TODO(测试)
  */
 public class MyAppListener implements ServletContextListener {
 

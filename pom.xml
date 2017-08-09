@@ -10,7 +10,7 @@
   <packaging>war</packaging>
   
   <dependencies>
-	
+		<!-- 依赖jar -->
 		<dependency>
 			<groupId>com.chilema.item</groupId>
 			<artifactId>manager-pojo</artifactId>

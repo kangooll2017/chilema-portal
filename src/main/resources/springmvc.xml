@@ -10,7 +10,7 @@
 	<!-- 引入外部配置文件 若是在spring_bean里面配置，springmvc就不能使用子父容器无效 -->
 	<context:property-placeholder location="classpath:other/app.properties" />
 
-	<!--1、默认就是包含所有 更改扫描 本项目下的controller; -->
+	<!--1、默认就是包含所有 更改扫描 本项目下的controller -->
 	<context:component-scan base-package="com.chilema.portal.controller"  
 		use-default-filters="false">
 		<context:include-filter type="annotation"
